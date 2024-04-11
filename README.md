@@ -202,12 +202,12 @@ The program will output all the images in the `build/images` directory along wit
   "date": 1731990799975,
   "attributes": [
     { "trait_type": "Background", "value": "Black" },
-    { "trait_type": "Eyeball", "value": "Red" },
-    { "trait_type": "Eye color", "value": "Yellow" },
-    { "trait_type": "Iris", "value": "Small" },
-    { "trait_type": "Shine", "value": "Shapes" },
-    { "trait_type": "Bottom lid", "value": "Low" },
-    { "trait_type": "Top lid", "value": "Middle" }
+    { "trait_type": "Hands", "value": "Red" },
+    { "trait_type": "Head", "value": "Yellow" },
+    { "trait_type": "Eyes", "value": "Small" },
+    { "trait_type": "Hat", "value": "Shapes" },
+    { "trait_type": "Body", "value": "Low" },
+    { "trait_type": "Clothes", "value": "Middle" }
   ],
   "compiler": "HashLips Art Engine"
 }

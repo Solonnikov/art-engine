@@ -19,12 +19,15 @@
     "pixelate": "node utils/pixelate.js",
     "update_info": "node utils/update_info.js",
     "preview_gif": "node utils/preview_gif.js",
-    "generate_metadata": "node utils/generate_metadata.js"
+    "generate_metadata": "node utils/generate_metadata.js",
+    "generate_combined_metadata": "node utils/generate_combined_metadata_file.js",
+    "conver_cvs_to_json": "node utils/convertCSVtoJSON.js"
   },
   "author": "Daniel Eugene Botha (HashLips)",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0",
+    "csv-parser": "^3.0.0",
     "gif-encoder-2": "^1.0.5",
     "sha1": "^1.1.1"
   }
